@@ -1,6 +1,6 @@
 # VGG16 for CIFAR-10 Classification with Grad-CAM Visualization
 
-This project demonstrates the use of the VGG16 model to classify the CIFAR-10 dataset, and utilizes Grad-CAM for visualizing where VGG16 focuses its attention during classification.
+This project demonstrates the use of VGG16 to classify the CIFAR-10 dataset, and utilizes Grad-CAM for visualizing where VGG16 focuses its attention during classification.
 
 ## Features
 
